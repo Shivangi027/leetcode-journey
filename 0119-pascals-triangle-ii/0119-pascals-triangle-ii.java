@@ -9,7 +9,6 @@ class Solution {
             ans = ans/i ;
             arr.add((int)ans) ;  
         }
-        // arr.add(1) ;
         return arr;     
     }
 }
