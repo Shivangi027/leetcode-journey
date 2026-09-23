@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/Shivangi027/leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shivangi027/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivangi027/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivangi027/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/Shivangi027/leetcode-journey/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangi027/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0015-3sum](https://github.com/Shivangi027/leetcode-journey/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shivangi027/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -67,10 +70,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
