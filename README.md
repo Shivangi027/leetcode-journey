@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/Shivangi027/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivangi027/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shivangi027/leetcode-journey/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Shivangi027/leetcode-journey/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivangi027/leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivangi027/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Shivangi027/leetcode-journey/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Shivangi027/leetcode-journey/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
