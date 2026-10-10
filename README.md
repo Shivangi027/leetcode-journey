@@ -55,6 +55,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivangi027/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shivangi027/leetcode-journey/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Shivangi027/leetcode-journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivangi027/leetcode-journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shivangi027/leetcode-journey/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Shivangi027/leetcode-journey/tree/master/0493-reverse-pairs) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shivangi027/leetcode-journey/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shivangi027/leetcode-journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
