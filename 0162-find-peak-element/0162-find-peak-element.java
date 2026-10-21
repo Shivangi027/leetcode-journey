@@ -17,6 +17,6 @@ class Solution {
         else if(arr[mid]>arr[mid-1]) low = mid +1 ; // left side of peak element 
         else high = mid-1 ;                         // right side of peak element 
     }
-    return low ;
+    return -1 ;
     }
 }
