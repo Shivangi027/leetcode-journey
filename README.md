@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/Shivangi027/leetcode-journey/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangi027/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shivangi027/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivangi027/leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Shivangi027/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivangi027/leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
