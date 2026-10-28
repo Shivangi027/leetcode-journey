@@ -50,6 +50,7 @@
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shivangi027/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivangi027/leetcode-journey/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivangi027/leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivangi027/leetcode-journey/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivangi027/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shivangi027/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shivangi027/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivangi027/leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
