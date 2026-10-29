@@ -196,9 +196,18 @@
 | [0242-valid-anagram](https://github.com/Shivangi027/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivangi027/leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shivangi027/leetcode-journey/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
