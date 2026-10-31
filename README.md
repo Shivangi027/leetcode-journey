@@ -119,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivangi027/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shivangi027/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shivangi027/leetcode-journey/tree/master/0119-pascals-triangle-ii) |
@@ -192,6 +193,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivangi027/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shivangi027/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shivangi027/leetcode-journey/tree/master/0242-valid-anagram) |
@@ -212,10 +214,15 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivangi027/leetcode-journey/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
