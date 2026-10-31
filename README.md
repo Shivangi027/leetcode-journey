@@ -71,6 +71,7 @@
 | [0007-reverse-integer](https://github.com/Shivangi027/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivangi027/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shivangi027/leetcode-journey/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Shivangi027/leetcode-journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shivangi027/leetcode-journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shivangi027/leetcode-journey/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivangi027/leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
@@ -213,4 +214,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivangi027/leetcode-journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
