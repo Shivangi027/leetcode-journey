@@ -221,8 +221,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivangi027/leetcode-journey/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Shivangi027/leetcode-journey/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivangi027/leetcode-journey/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shivangi027/leetcode-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
