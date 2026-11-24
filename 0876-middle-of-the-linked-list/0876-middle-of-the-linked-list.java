@@ -10,21 +10,13 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-    ListNode temp = head ;
-    int count = 0 ;
-    while(temp!=null){
-        count++ ;
-        temp = temp.next ;
+   // Tortoise and Hare Algorithm 
+    ListNode slow = head ;
+    ListNode fast = head ;
+    while(fast!=null&&fast.next!=null){
+        slow = slow.next ;
+        fast = fast.next.next ;
     }
-    int mid = count/2 +1 ;
-    count = 0 ;
-    temp = head ;
-    while(temp!=null){
-        count++ ;
-        if(count==mid)
-        return temp ;
-        temp = temp.next ;
-    }  
-    return head ;    
+    return slow ;   
     }
 }
